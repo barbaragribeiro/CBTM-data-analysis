@@ -3001,3 +3001,12 @@ TimedPromise@chrome://marionette/content/sync.js:230:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
 webdriverClickElement@chrome://marionette/content/interaction.js:182:31
 1592094361689	Marionette	INFO	Stopped listening on port 45583
+1592755220427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTDBhiI"
+1592755233995	Marionette	INFO	Listening on port 46215
+1592755234071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1592755449206	Marionette	INFO	Stopped listening on port 46215
+1592755453155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemYrtw3"
+1592755457831	Marionette	INFO	Listening on port 45053
+1592755457875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592762772135	Marionette	INFO	Stopped listening on port 45053
